@@ -7,7 +7,7 @@ import Featured from "../components/Homepage/Featured";
 export default function Home() {
   return (
     <>
-      <Hero title="ang pogi mo" max="false">
+      <Hero title="Try our products" max="false">
         <Link to="/products" className="main-link" style={{ margin: "2rem" }}>
           our products
         </Link>
